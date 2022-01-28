@@ -1,0 +1,1 @@
+#org.springframework.context.ApplicationListener=com.jskno.spring.sandbox.config.AppEnvironmentPreparedListener
